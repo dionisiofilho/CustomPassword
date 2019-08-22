@@ -1,9 +1,7 @@
 # CustomPassword
 
 # Version
-```
 [![](https://jitpack.io/v/dionisiofilho/CustomPassword.svg)](https://jitpack.io/#dionisiofilho/CustomPassword)
-```
 
 # PasswordViewCustom
 
@@ -34,9 +32,12 @@ O PasswordView utiliza a permissão. (Opcional)
 ```
 # Exemplos
 
-![Exemplo 1](https://github.com/dionisiofilho/CustomPassword/blob/master/foto1.png =250x500)
-![Exemplo 2](https://github.com/dionisiofilho/CustomPassword/blob/master/foto2.png =250x500)
-![Exemplo 3](https://github.com/dionisiofilho/CustomPassword/blob/master/foto3.png =250x500)
+<img src="https://imgur.com/a/s5j1wVh" alt="Home" width="350" height="550">
+
+<img src="https://i.imgur.com/7lfLFLF.png" alt="Home" width="350" height="550">
+
+<img src="https://i.imgur.com/tOj7aNx.png" alt="Home" width="350" height="550">
+
 
 # Utilizando o PasswordViewCustom
 ```sh
