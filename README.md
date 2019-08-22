@@ -31,12 +31,11 @@ O PasswordView utiliza a permissão. (Opcional)
     <uses-permission android:name="android.permission.VIBRATE"/>
 ```
 # Exemplos
+<img src="https://i.imgur.com/wNYK5Zq.png" alt="Exemplo1" width="350" height="550">
 
-<img src="https://imgur.com/a/s5j1wVh" alt="Home" width="350" height="550">
+<img src="https://i.imgur.com/7lfLFLF.png" alt="Exemplo2" width="350" height="550">
 
-<img src="https://i.imgur.com/7lfLFLF.png" alt="Home" width="350" height="550">
-
-<img src="https://i.imgur.com/tOj7aNx.png" alt="Home" width="350" height="550">
+<img src="https://i.imgur.com/tOj7aNx.png" alt="Exemplo3" width="350" height="550">
 
 
 # Utilizando o PasswordViewCustom
@@ -63,4 +62,5 @@ O item app:qtd_password indica a quantidade de caracteres. Default : 4
 License
 ----
 
-
+# Contato
+dionisio.filhoo@gmail.com
