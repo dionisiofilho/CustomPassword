@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="digito1" type="id"/>
+    <item name="digito2" type="id"/>
+    <item name="digito3" type="id"/>
+    <item name="digito4" type="id"/>
+    <item name="digito5" type="id"/>
+    <item name="digito6" type="id"/>
+    <item name="digito7" type="id"/>
+    <item name="digito8" type="id"/>
+</resources>
